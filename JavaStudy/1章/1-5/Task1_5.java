@@ -48,7 +48,7 @@ public class Task1_5 {
     
 
         for (int a = 1; a <= 9; a++) {
-          System.out.print( a + "|| ");
+          System.out.print( a + " || ");
             for (int j = 1; j <= 9; j++) {
                 System.out.print( a * j + " | ");    
             }
